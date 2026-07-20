@@ -1,0 +1,201 @@
+tour_id,tour_name,province,primary_type,days,price
+T0001,Du lịch Hà Nội,Hà Nội,Mạo hiểm - Trải nghiệm,2,3284000
+T0002,Du lịch Hà Nội,Hà Nội,Mạo hiểm - Trải nghiệm,4,4748000
+T0003,Du lịch Hà Nội,Hà Nội,Văn hóa,2,1966000
+T0004,Du lịch TP Hồ Chí Minh,TP Hồ Chí Minh,Giải trí - Nghỉ dưỡng,2,1952000
+T0005,Du lịch TP Hồ Chí Minh,TP Hồ Chí Minh,Ẩm thực,2,2806000
+T0006,Du lịch TP Hồ Chí Minh,TP Hồ Chí Minh,Giải trí - Nghỉ dưỡng,4,1935000
+T0007,Du lịch Hải Phòng,Hải Phòng,Ẩm thực,4,2863000
+T0008,Du lịch Hải Phòng,Hải Phòng,Mạo hiểm - Trải nghiệm,3,4487000
+T0009,Du lịch Hải Phòng,Hải Phòng,Ẩm thực,4,5930000
+T0010,Du lịch Đà Nẵng,Đà Nẵng,Mạo hiểm - Trải nghiệm,3,5877000
+T0011,Du lịch Đà Nẵng,Đà Nẵng,Giải trí - Nghỉ dưỡng,3,1926000
+T0012,Du lịch Đà Nẵng,Đà Nẵng,Ẩm thực,4,1909000
+T0013,Du lịch Cần Thơ,Cần Thơ,Giải trí - Nghỉ dưỡng,2,4765000
+T0014,Du lịch Cần Thơ,Cần Thơ,Sinh thái - Thiên nhiên,2,3672000
+T0015,Du lịch Cần Thơ,Cần Thơ,Ẩm thực,3,5771000
+T0016,Du lịch An Giang,An Giang,Sinh thái - Thiên nhiên,2,5211000
+T0017,Du lịch An Giang,An Giang,Ẩm thực,3,2048000
+T0018,Du lịch An Giang,An Giang,Giải trí - Nghỉ dưỡng,3,4807000
+T0019,Du lịch Bà Rịa - Vũng Tàu,Bà Rịa - Vũng Tàu,Sinh thái - Thiên nhiên,4,4014000
+T0020,Du lịch Bà Rịa - Vũng Tàu,Bà Rịa - Vũng Tàu,Ẩm thực,3,3848000
+T0021,Du lịch Bà Rịa - Vũng Tàu,Bà Rịa - Vũng Tàu,Mạo hiểm - Trải nghiệm,4,3011000
+T0022,Du lịch Bạc Liêu,Bạc Liêu,Giải trí - Nghỉ dưỡng,4,2577000
+T0023,Du lịch Bạc Liêu,Bạc Liêu,Văn hóa,3,1711000
+T0024,Du lịch Bạc Liêu,Bạc Liêu,Văn hóa,4,5523000
+T0025,Du lịch Bắc Giang,Bắc Giang,Mạo hiểm - Trải nghiệm,4,4024000
+T0026,Du lịch Bắc Giang,Bắc Giang,Giải trí - Nghỉ dưỡng,3,2730000
+T0027,Du lịch Bắc Giang,Bắc Giang,Ẩm thực,4,3120000
+T0028,Du lịch Bắc Kạn,Bắc Kạn,Mạo hiểm - Trải nghiệm,3,3108000
+T0029,Du lịch Bắc Kạn,Bắc Kạn,Ẩm thực,3,1949000
+T0030,Du lịch Bắc Kạn,Bắc Kạn,Mạo hiểm - Trải nghiệm,4,3764000
+T0031,Du lịch Bắc Ninh,Bắc Ninh,Ẩm thực,3,2257000
+T0032,Du lịch Bắc Ninh,Bắc Ninh,Ẩm thực,4,5764000
+T0033,Du lịch Bắc Ninh,Bắc Ninh,Văn hóa,2,4051000
+T0034,Du lịch Bến Tre,Bến Tre,Giải trí - Nghỉ dưỡng,4,5308000
+T0035,Du lịch Bến Tre,Bến Tre,Mạo hiểm - Trải nghiệm,2,3342000
+T0036,Du lịch Bến Tre,Bến Tre,Mạo hiểm - Trải nghiệm,3,1114000
+T0037,Du lịch Bình Định,Bình Định,Sinh thái - Thiên nhiên,4,5926000
+T0038,Du lịch Bình Định,Bình Định,Sinh thái - Thiên nhiên,2,3490000
+T0039,Du lịch Bình Định,Bình Định,Giải trí - Nghỉ dưỡng,3,3053000
+T0040,Du lịch Bình Dương,Bình Dương,Ẩm thực,4,5529000
+T0041,Du lịch Bình Dương,Bình Dương,Mạo hiểm - Trải nghiệm,4,5772000
+T0042,Du lịch Bình Dương,Bình Dương,Ẩm thực,2,1948000
+T0043,Du lịch Bình Phước,Bình Phước,Giải trí - Nghỉ dưỡng,2,4784000
+T0044,Du lịch Bình Phước,Bình Phước,Sinh thái - Thiên nhiên,3,1587000
+T0045,Du lịch Bình Phước,Bình Phước,Ẩm thực,2,4193000
+T0046,Du lịch Bình Thuận,Bình Thuận,Mạo hiểm - Trải nghiệm,2,3759000
+T0047,Du lịch Bình Thuận,Bình Thuận,Mạo hiểm - Trải nghiệm,2,5434000
+T0048,Du lịch Bình Thuận,Bình Thuận,Mạo hiểm - Trải nghiệm,3,1904000
+T0049,Du lịch Cà Mau,Cà Mau,Giải trí - Nghỉ dưỡng,4,3551000
+T0050,Du lịch Cà Mau,Cà Mau,Văn hóa,4,4979000
+T0051,Du lịch Cà Mau,Cà Mau,Văn hóa,2,1819000
+T0052,Du lịch Cao Bằng,Cao Bằng,Mạo hiểm - Trải nghiệm,4,2613000
+T0053,Du lịch Cao Bằng,Cao Bằng,Ẩm thực,4,1711000
+T0054,Du lịch Cao Bằng,Cao Bằng,Giải trí - Nghỉ dưỡng,2,3238000
+T0055,Du lịch Đắk Lắk,Đắk Lắk,Mạo hiểm - Trải nghiệm,3,3346000
+T0056,Du lịch Đắk Lắk,Đắk Lắk,Văn hóa,3,4938000
+T0057,Du lịch Đắk Lắk,Đắk Lắk,Sinh thái - Thiên nhiên,2,3248000
+T0058,Du lịch Đắk Nông,Đắk Nông,Văn hóa,3,5916000
+T0059,Du lịch Đắk Nông,Đắk Nông,Sinh thái - Thiên nhiên,4,3809000
+T0060,Du lịch Đắk Nông,Đắk Nông,Ẩm thực,4,5274000
+T0061,Du lịch Điện Biên,Điện Biên,Mạo hiểm - Trải nghiệm,2,2976000
+T0062,Du lịch Điện Biên,Điện Biên,Ẩm thực,3,3556000
+T0063,Du lịch Điện Biên,Điện Biên,Mạo hiểm - Trải nghiệm,2,5364000
+T0064,Du lịch Đồng Nai,Đồng Nai,Giải trí - Nghỉ dưỡng,2,2373000
+T0065,Du lịch Đồng Nai,Đồng Nai,Mạo hiểm - Trải nghiệm,2,2173000
+T0066,Du lịch Đồng Nai,Đồng Nai,Giải trí - Nghỉ dưỡng,4,4464000
+T0067,Du lịch Đồng Tháp,Đồng Tháp,Giải trí - Nghỉ dưỡng,3,4690000
+T0068,Du lịch Đồng Tháp,Đồng Tháp,Văn hóa,3,2789000
+T0069,Du lịch Đồng Tháp,Đồng Tháp,Văn hóa,2,1655000
+T0070,Du lịch Gia Lai,Gia Lai,Mạo hiểm - Trải nghiệm,4,2825000
+T0071,Du lịch Gia Lai,Gia Lai,Sinh thái - Thiên nhiên,3,2656000
+T0072,Du lịch Gia Lai,Gia Lai,Văn hóa,3,3993000
+T0073,Du lịch Hà Giang,Hà Giang,Giải trí - Nghỉ dưỡng,4,1535000
+T0074,Du lịch Hà Giang,Hà Giang,Sinh thái - Thiên nhiên,3,3688000
+T0075,Du lịch Hà Giang,Hà Giang,Mạo hiểm - Trải nghiệm,3,5157000
+T0076,Du lịch Hà Nam,Hà Nam,Văn hóa,3,4033000
+T0077,Du lịch Hà Nam,Hà Nam,Giải trí - Nghỉ dưỡng,3,4256000
+T0078,Du lịch Hà Nam,Hà Nam,Giải trí - Nghỉ dưỡng,4,3132000
+T0079,Du lịch Hà Tĩnh,Hà Tĩnh,Mạo hiểm - Trải nghiệm,3,3063000
+T0080,Du lịch Hà Tĩnh,Hà Tĩnh,Văn hóa,2,3927000
+T0081,Du lịch Hà Tĩnh,Hà Tĩnh,Mạo hiểm - Trải nghiệm,2,4075000
+T0082,Du lịch Hải Dương,Hải Dương,Sinh thái - Thiên nhiên,2,2546000
+T0083,Du lịch Hải Dương,Hải Dương,Ẩm thực,4,3724000
+T0084,Du lịch Hải Dương,Hải Dương,Ẩm thực,2,3723000
+T0085,Du lịch Hậu Giang,Hậu Giang,Mạo hiểm - Trải nghiệm,4,1909000
+T0086,Du lịch Hậu Giang,Hậu Giang,Sinh thái - Thiên nhiên,4,5337000
+T0087,Du lịch Hậu Giang,Hậu Giang,Mạo hiểm - Trải nghiệm,3,2622000
+T0088,Du lịch Hòa Bình,Hòa Bình,Mạo hiểm - Trải nghiệm,3,5713000
+T0089,Du lịch Hòa Bình,Hòa Bình,Sinh thái - Thiên nhiên,3,2335000
+T0090,Du lịch Hòa Bình,Hòa Bình,Ẩm thực,4,2776000
+T0091,Du lịch Hưng Yên,Hưng Yên,Ẩm thực,3,3416000
+T0092,Du lịch Hưng Yên,Hưng Yên,Giải trí - Nghỉ dưỡng,4,3983000
+T0093,Du lịch Hưng Yên,Hưng Yên,Ẩm thực,3,1042000
+T0094,Du lịch Khánh Hòa,Khánh Hòa,Ẩm thực,3,1242000
+T0095,Du lịch Khánh Hòa,Khánh Hòa,Sinh thái - Thiên nhiên,3,5367000
+T0096,Du lịch Khánh Hòa,Khánh Hòa,Mạo hiểm - Trải nghiệm,4,5534000
+T0097,Du lịch Kiên Giang,Kiên Giang,Ẩm thực,4,1067000
+T0098,Du lịch Kiên Giang,Kiên Giang,Sinh thái - Thiên nhiên,3,3800000
+T0099,Du lịch Kiên Giang,Kiên Giang,Sinh thái - Thiên nhiên,4,2309000
+T0100,Du lịch Kon Tum,Kon Tum,Văn hóa,4,4355000
+T0101,Du lịch Kon Tum,Kon Tum,Ẩm thực,3,1798000
+T0102,Du lịch Kon Tum,Kon Tum,Văn hóa,2,3684000
+T0103,Du lịch Lai Châu,Lai Châu,Sinh thái - Thiên nhiên,2,2275000
+T0104,Du lịch Lai Châu,Lai Châu,Ẩm thực,4,5520000
+T0105,Du lịch Lai Châu,Lai Châu,Ẩm thực,4,1968000
+T0106,Du lịch Lâm Đồng,Lâm Đồng,Sinh thái - Thiên nhiên,4,4466000
+T0107,Du lịch Lâm Đồng,Lâm Đồng,Ẩm thực,4,4391000
+T0108,Du lịch Lâm Đồng,Lâm Đồng,Giải trí - Nghỉ dưỡng,2,5724000
+T0109,Du lịch Lạng Sơn,Lạng Sơn,Ẩm thực,2,3692000
+T0110,Du lịch Lạng Sơn,Lạng Sơn,Sinh thái - Thiên nhiên,3,4675000
+T0111,Du lịch Lạng Sơn,Lạng Sơn,Văn hóa,3,2438000
+T0112,Du lịch Lào Cai,Lào Cai,Ẩm thực,4,4673000
+T0113,Du lịch Lào Cai,Lào Cai,Mạo hiểm - Trải nghiệm,2,4911000
+T0114,Du lịch Lào Cai,Lào Cai,Văn hóa,4,5184000
+T0115,Du lịch Long An,Long An,Giải trí - Nghỉ dưỡng,2,4279000
+T0116,Du lịch Long An,Long An,Sinh thái - Thiên nhiên,2,2880000
+T0117,Du lịch Long An,Long An,Sinh thái - Thiên nhiên,2,2806000
+T0118,Du lịch Nam Định,Nam Định,Ẩm thực,4,5569000
+T0119,Du lịch Nam Định,Nam Định,Ẩm thực,4,2930000
+T0120,Du lịch Nam Định,Nam Định,Văn hóa,4,3929000
+T0121,Du lịch Nghệ An,Nghệ An,Văn hóa,2,5131000
+T0122,Du lịch Nghệ An,Nghệ An,Giải trí - Nghỉ dưỡng,3,4385000
+T0123,Du lịch Nghệ An,Nghệ An,Ẩm thực,4,2082000
+T0124,Du lịch Ninh Bình,Ninh Bình,Giải trí - Nghỉ dưỡng,4,3683000
+T0125,Du lịch Ninh Bình,Ninh Bình,Mạo hiểm - Trải nghiệm,2,5604000
+T0126,Du lịch Ninh Bình,Ninh Bình,Sinh thái - Thiên nhiên,2,5288000
+T0127,Du lịch Ninh Thuận,Ninh Thuận,Mạo hiểm - Trải nghiệm,3,2537000
+T0128,Du lịch Ninh Thuận,Ninh Thuận,Văn hóa,3,4879000
+T0129,Du lịch Ninh Thuận,Ninh Thuận,Giải trí - Nghỉ dưỡng,3,5584000
+T0130,Du lịch Phú Thọ,Phú Thọ,Văn hóa,2,1624000
+T0131,Du lịch Phú Thọ,Phú Thọ,Sinh thái - Thiên nhiên,2,5457000
+T0132,Du lịch Phú Thọ,Phú Thọ,Văn hóa,4,1194000
+T0133,Du lịch Phú Yên,Phú Yên,Giải trí - Nghỉ dưỡng,2,5774000
+T0134,Du lịch Phú Yên,Phú Yên,Văn hóa,4,4365000
+T0135,Du lịch Phú Yên,Phú Yên,Văn hóa,2,3354000
+T0136,Du lịch Quảng Bình,Quảng Bình,Mạo hiểm - Trải nghiệm,4,5977000
+T0137,Du lịch Quảng Bình,Quảng Bình,Sinh thái - Thiên nhiên,3,4110000
+T0138,Du lịch Quảng Bình,Quảng Bình,Mạo hiểm - Trải nghiệm,3,5628000
+T0139,Du lịch Quảng Nam,Quảng Nam,Sinh thái - Thiên nhiên,2,2582000
+T0140,Du lịch Quảng Nam,Quảng Nam,Ẩm thực,3,1037000
+T0141,Du lịch Quảng Nam,Quảng Nam,Văn hóa,3,4866000
+T0142,Du lịch Quảng Ngãi,Quảng Ngãi,Giải trí - Nghỉ dưỡng,2,3572000
+T0143,Du lịch Quảng Ngãi,Quảng Ngãi,Mạo hiểm - Trải nghiệm,4,2670000
+T0144,Du lịch Quảng Ngãi,Quảng Ngãi,Mạo hiểm - Trải nghiệm,3,1210000
+T0145,Du lịch Quảng Ninh,Quảng Ninh,Mạo hiểm - Trải nghiệm,2,4236000
+T0146,Du lịch Quảng Ninh,Quảng Ninh,Mạo hiểm - Trải nghiệm,2,5583000
+T0147,Du lịch Quảng Ninh,Quảng Ninh,Ẩm thực,2,5492000
+T0148,Du lịch Quảng Trị,Quảng Trị,Mạo hiểm - Trải nghiệm,4,1031000
+T0149,Du lịch Quảng Trị,Quảng Trị,Mạo hiểm - Trải nghiệm,2,5487000
+T0150,Du lịch Quảng Trị,Quảng Trị,Ẩm thực,3,3631000
+T0151,Du lịch Sóc Trăng,Sóc Trăng,Giải trí - Nghỉ dưỡng,4,1906000
+T0152,Du lịch Sóc Trăng,Sóc Trăng,Văn hóa,4,4799000
+T0153,Du lịch Sóc Trăng,Sóc Trăng,Sinh thái - Thiên nhiên,2,2391000
+T0154,Du lịch Sơn La,Sơn La,Giải trí - Nghỉ dưỡng,2,1411000
+T0155,Du lịch Sơn La,Sơn La,Sinh thái - Thiên nhiên,2,5480000
+T0156,Du lịch Sơn La,Sơn La,Văn hóa,2,5695000
+T0157,Du lịch Tây Ninh,Tây Ninh,Ẩm thực,2,4471000
+T0158,Du lịch Tây Ninh,Tây Ninh,Ẩm thực,4,1152000
+T0159,Du lịch Tây Ninh,Tây Ninh,Ẩm thực,2,5264000
+T0160,Du lịch Thái Bình,Thái Bình,Mạo hiểm - Trải nghiệm,3,2658000
+T0161,Du lịch Thái Bình,Thái Bình,Sinh thái - Thiên nhiên,3,4455000
+T0162,Du lịch Thái Bình,Thái Bình,Văn hóa,2,3281000
+T0163,Du lịch Thái Nguyên,Thái Nguyên,Ẩm thực,2,2661000
+T0164,Du lịch Thái Nguyên,Thái Nguyên,Giải trí - Nghỉ dưỡng,2,2108000
+T0165,Du lịch Thái Nguyên,Thái Nguyên,Văn hóa,2,3817000
+T0166,Du lịch Thanh Hóa,Thanh Hóa,Văn hóa,3,1062000
+T0167,Du lịch Thanh Hóa,Thanh Hóa,Giải trí - Nghỉ dưỡng,2,2332000
+T0168,Du lịch Thanh Hóa,Thanh Hóa,Mạo hiểm - Trải nghiệm,4,2071000
+T0169,Du lịch Thừa Thiên Huế,Thừa Thiên Huế,Văn hóa,3,1649000
+T0170,Du lịch Thừa Thiên Huế,Thừa Thiên Huế,Ẩm thực,2,5699000
+T0171,Du lịch Thừa Thiên Huế,Thừa Thiên Huế,Ẩm thực,4,3723000
+T0172,Du lịch Tiền Giang,Tiền Giang,Giải trí - Nghỉ dưỡng,3,3285000
+T0173,Du lịch Tiền Giang,Tiền Giang,Mạo hiểm - Trải nghiệm,3,5336000
+T0174,Du lịch Tiền Giang,Tiền Giang,Sinh thái - Thiên nhiên,4,1613000
+T0175,Du lịch Trà Vinh,Trà Vinh,Sinh thái - Thiên nhiên,2,3667000
+T0176,Du lịch Trà Vinh,Trà Vinh,Sinh thái - Thiên nhiên,2,1781000
+T0177,Du lịch Trà Vinh,Trà Vinh,Giải trí - Nghỉ dưỡng,2,3520000
+T0178,Du lịch Tuyên Quang,Tuyên Quang,Sinh thái - Thiên nhiên,3,3861000
+T0179,Du lịch Tuyên Quang,Tuyên Quang,Sinh thái - Thiên nhiên,2,2106000
+T0180,Du lịch Tuyên Quang,Tuyên Quang,Ẩm thực,4,1287000
+T0181,Du lịch Vĩnh Long,Vĩnh Long,Giải trí - Nghỉ dưỡng,4,2543000
+T0182,Du lịch Vĩnh Long,Vĩnh Long,Mạo hiểm - Trải nghiệm,4,1478000
+T0183,Du lịch Vĩnh Long,Vĩnh Long,Sinh thái - Thiên nhiên,4,1576000
+T0184,Du lịch Vĩnh Phúc,Vĩnh Phúc,Văn hóa,2,2623000
+T0185,Du lịch Vĩnh Phúc,Vĩnh Phúc,Mạo hiểm - Trải nghiệm,3,5912000
+T0186,Du lịch Vĩnh Phúc,Vĩnh Phúc,Giải trí - Nghỉ dưỡng,3,5080000
+T0187,Du lịch Yên Bái,Yên Bái,Giải trí - Nghỉ dưỡng,4,2165000
+T0188,Du lịch Yên Bái,Yên Bái,Mạo hiểm - Trải nghiệm,2,1440000
+T0189,Du lịch Yên Bái,Yên Bái,Ẩm thực,4,5329000
+T0190,Du lịch Hà Nam,Hà Nam,Ẩm thực,4,77173000
+T0191,Du lịch Quảng Nam,Quảng Nam,Mạo hiểm - Trải nghiệm,3,27301000
+T0192,Du lịch Bắc Ninh,Bắc Ninh,Ẩm thực,3,39483000
+T0193,Du lịch Bà Rịa - Vũng Tàu,Bà Rịa - Vũng Tàu,Ẩm thực,4,8215000
+T0194,Du lịch Hòa Bình,Hòa Bình,Giải trí - Nghỉ dưỡng,3,47472000
+T0195,Du lịch Hà Giang,Hà Giang,Giải trí - Nghỉ dưỡng,4,73085000
+T0196,Du lịch Vĩnh Long,Vĩnh Long,Ẩm thực,5,14309000
+T0197,Du lịch Bà Rịa - Vũng Tàu,Bà Rịa - Vũng Tàu,Sinh thái - Thiên nhiên,2,15962000
+T0198,Du lịch Bắc Kạn,Bắc Kạn,Ẩm thực,2,83352000
+T0199,Du lịch Phú Yên,Phú Yên,Mạo hiểm - Trải nghiệm,3,71948000
+T0200,Du lịch Đồng Tháp,Đồng Tháp,Ẩm thực,2,96397000
